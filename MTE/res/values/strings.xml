@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MTE</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_embstate">前台状态</string>
+    <string name="main_cmdline">命令行</string>
+    <string name="main_config">设置</string>
+    <string name="main_more">更多</string>
+</resources>
